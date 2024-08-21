@@ -1,2 +1,4 @@
-name = "Krisna"
-print(name)
+# calculator.py
+
+def add(a, b):
+    return a + b
